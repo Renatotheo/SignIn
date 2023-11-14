@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Estilo padrão do aplicativo -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Personalize o estilo do aplicativo aqui -->
+    </style>
+
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_logo</item>
+    </style>
+
+</resources>
